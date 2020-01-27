@@ -14,6 +14,8 @@ Po wyborze emocji, którą ma zaprezentować robota należy zakomentować wszyst
 
 
 rosinit
+
+
 rostopic list
 
 
